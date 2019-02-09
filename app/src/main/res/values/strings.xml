@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPagerDemo</string>
+    <string name="first_pager">First Pager</string>
+    <string name="second_pager">Second Pager</string>
+    <string name="third_pager">Third Pager</string>
+    <string name="main_page">首页</string>
+    <string name="message">消息</string>
+    <string name="me">我</string>
+</resources>
